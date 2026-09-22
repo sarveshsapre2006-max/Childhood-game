@@ -4,8 +4,8 @@
   "description": "Real-time multiplayer Name-Country-City-Object-Animal-Surname game for Indian players",
   "main": "index.js",
   "scripts": {
-    "start": "index.js",
-    "dev": "index.js"
+    "start": "node index.js",
+    "dev": "node index.js"
   },
   "dependencies": {
     "express": "^4.19.2",
