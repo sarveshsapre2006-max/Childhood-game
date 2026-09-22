@@ -1,0 +1,25 @@
+{
+  "name": "Antakshari Ants",
+  "short_name": "Ant Game",
+  "description": "Name Country City Object Animal Surname - multiplayer word game",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1B1035",
+  "theme_color": "#1B1035",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "antakshari-ants-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "antakshari-ants-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
