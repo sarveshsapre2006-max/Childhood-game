@@ -2,10 +2,10 @@
   "name": "namecity-game",
   "version": "1.0.0",
   "description": "Real-time multiplayer Name-Country-City-Object-Animal-Surname game for Indian players",
-  "main": "server/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server/index.js",
-    "dev": "node server/index.js"
+    "start": "index.js",
+    "dev": "index.js"
   },
   "dependencies": {
     "express": "^4.19.2",
